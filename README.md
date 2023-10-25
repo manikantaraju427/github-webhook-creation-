@@ -6,7 +6,7 @@
 ![Screenshot (327)](https://github.com/manikantaraju427/github-webhook/assets/125948783/11777d05-4d29-4dd5-9584-a24942254bcb)
 
 
-Connect to the EC2 instance using SSH client
+Connect to the EC2 instance using To check if Jenkins is installed and running, run the following command 
 
 
 ![WhatsApp Image 2023-10-25 at 09 51 22](https://github.com/manikantaraju427/github-webhook/assets/125948783/d62d4886-9165-405d-8f6b-07f9a3382290)
