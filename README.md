@@ -87,6 +87,31 @@ $sudo usermod -a -G docker jenkins
 ![Screenshot (334)](https://github.com/manikantaraju427/github-webhook/assets/125948783/4b57d12b-b14b-4960-ab42-9ba1980d197e)
 
 
+# Step 4:
+
+1.Browse instance-public-IP/8080 it will open jenkins dashboard.
+
+
+![Screenshot (335)](https://github.com/manikantaraju427/github-webhook/assets/125948783/6d93f495-a391-4c65-94db-bfd23470114c)
+
+
+
+2. We need an Administrator Password to unlock this. Go to terminal and use below command for password.
+
+
+$cat /var/lib/jenkins/secrets/initialAdminPassword
+
+
+![WhatsApp Image 2023-10-25 at 11 39 20](https://github.com/manikantaraju427/github-webhook/assets/125948783/f58fd91e-57c9-44ab-a49f-e5fc600e81be)
+
+Paste above password in Administrator Password and click on Continue
+
+
+3. Install suggested plugins
+
+
+![WhatsApp Image 2023-10-25 at 11 42 55](https://github.com/manikantaraju427/github-webhook/assets/125948783/616df698-5389-44c9-8c26-be923d88ab41)
+
 
 
 
