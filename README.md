@@ -113,6 +113,49 @@ Paste above password in Administrator Password and click on Continue
 ![WhatsApp Image 2023-10-25 at 11 42 55](https://github.com/manikantaraju427/github-webhook/assets/125948783/616df698-5389-44c9-8c26-be923d88ab41)
 
 
+4. All the plugins installed.
+
+
+![Screenshot (338)](https://github.com/manikantaraju427/github-webhook/assets/125948783/c03e3e7c-f4a7-428a-a4ac-a01986c99dad)
+
+
+5. Create first admin user
+
+
+![Screenshot (339)](https://github.com/manikantaraju427/github-webhook/assets/125948783/3a3368ea-04ac-4922-b0d1-5484106be006)
+
+
+![Screenshot (340)](https://github.com/manikantaraju427/github-webhook/assets/125948783/987e9be0-2830-40bf-a226-35220bcf1d6f)
+
+
+6. Jenkins setup is completed and jenkins is ready to use.
+
+
+![WhatsApp Image 2023-10-25 at 11 52 46](https://github.com/manikantaraju427/github-webhook/assets/125948783/b81d056d-da7a-4083-b24f-aee301f4bd5f)
+
+
+# Step 5: Create freestyle project
+
+
+1) In jenkins dashboard, Click on ‘New Item’ button on the left sidebar.
+
+
+![Screenshot (342)](https://github.com/manikantaraju427/github-webhook/assets/125948783/6d1e3117-dcf2-4708-a74f-7de844460d49)
+
+
+2. Give your project a name and select “Freestyle project” as the project type.
+
+
+![Screenshot (343)](https://github.com/manikantaraju427/github-webhook/assets/125948783/3828a4bb-a694-4d82-8115-e7a259fbc744)
+
+
+3. In Configure, Add description
+
+
+![Screenshot (344)](https://github.com/manikantaraju427/github-webhook/assets/125948783/721c15af-ac05-48f4-b42b-500da8f02f0f)
+
+
+4. In source code management, Write your GitHub repository URL
 
 
 
