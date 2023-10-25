@@ -27,10 +27,6 @@ $java -version
 
 ![WhatsApp Image 2023-10-25 at 10 12 18](https://github.com/manikantaraju427/github-webhook/assets/125948783/940c5a28-b285-4db1-9914-6cb5757e05a6)
 
-openjdk version "17.0.8" 2023-07-18
-OpenJDK Runtime Environment (build 17.0.8+7-Debian-1deb12u1)
-OpenJDK 64-Bit Server VM (build 17.0.8+7-Debian-1deb12u1, mixed mode, sharing)
-
 
 
 
