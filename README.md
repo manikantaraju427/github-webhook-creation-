@@ -154,7 +154,6 @@ Paste above password in Administrator Password and click on Continue
 
 ![Screenshot (344)](https://github.com/manikantaraju427/github-webhook/assets/125948783/721c15af-ac05-48f4-b42b-500da8f02f0f)
 
-
 4. In source code management, Write your GitHub repository URL  
 
 
